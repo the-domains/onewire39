@@ -2,6 +2,7 @@ name: onewire39
 favicon: null
 layout_spectrum: 0.4058678695000708
 typography_spectrum: 0.7051574625074863
+title: My work
 cta:
   domain: null
   bucket: null
