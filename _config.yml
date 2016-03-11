@@ -1,0 +1,28 @@
+name: onewire39
+favicon: null
+layout_spectrum: 0.4058678695000708
+typography_spectrum: 0.7051574625074863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.045829517766833305
+  lightness: 0.3672539754770696
+  saturation: 0.5036939084529877
+  rhythmicContrast: 0.6790927045512944
+purpose: []
