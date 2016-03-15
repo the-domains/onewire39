@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I would like to welcome you to my personal website. The purpose of this website is to show some of the training and work that I have done through out the years.\_"
-datePublished: '2016-03-11T09:11:16.601Z'
-dateModified: '2016-03-11T09:11:02.179Z'
+datePublished: '2016-03-15T21:18:34.497Z'
+dateModified: '2016-03-15T21:16:50.185Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-11-i-would-like-to-welcome-you-to-my-personal-website-the-purp.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-i-would-like-to-welcome-you-to-my-personal-website-the-purp.md
-published: true
 url: i-would-like-to-welcome-you-to-my-personal-website-the-purp/index.html
 _type: Article
 
