@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[My work]]></title>
         <description><![CDATA[My work]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onewire39/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 09:11:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 21:19:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onewire39/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I would like to welcome you to my personal website. The purpose of this website is to show some of the training and work that I have done through out the years. </p>]]></description>
-            <link>undefinedi-would-like-to-welcome-you-to-my-personal-website-the-purp/index.html</link>
+            <link>https://thegrid.ai/onewire39/i-would-like-to-welcome-you-to-my-personal-website-the-purp/index.html</link>
             <guid isPermaLink="false">cdb71527-453b-4651-ad77-0052b5bd2c6b</guid>
-            <pubDate>Fri, 11 Mar 2016 09:11:16 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 21:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
