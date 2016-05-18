@@ -1,29 +1,41 @@
-name: onewire39
-favicon: null
-layout_spectrum: 0.50397
-typography_spectrum: 0.92361
 title: 'Industrial Maintenance '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.75
+  brandStrength: 0
+  lightness: 0.8125
+  brandColors:
+    - '#060606'
+    - '#FFFFFF'
+    - '#A0A0A0'
+    - '#817A50'
+    - '#267E9A'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: onewire39
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#1e1f24'
-    - '#4f504b'
-    - '#a56c63'
-    - '#fcae63'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.75
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.92361
+layout_spectrum: 0.2598566
